@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\tasks\\retailstore\\retailstore.csproj": {}
+    "d:\\git\\tasks\\retailstore\\retailstore.csproj": {}
   },
   "projects": {
-    "D:\\git\\tasks\\retailstore\\retailstore.csproj": {
+    "d:\\git\\tasks\\retailstore\\retailstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\tasks\\retailstore\\retailstore.csproj",
+        "projectUniqueName": "d:\\git\\tasks\\retailstore\\retailstore.csproj",
         "projectName": "retailstore",
-        "projectPath": "D:\\git\\tasks\\retailstore\\retailstore.csproj",
+        "projectPath": "d:\\git\\tasks\\retailstore\\retailstore.csproj",
         "packagesPath": "C:\\Users\\udayk\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\tasks\\retailstore\\obj\\",
+        "outputPath": "d:\\git\\tasks\\retailstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\udayk\\AppData\\Roaming\\NuGet\\NuGet.Config"

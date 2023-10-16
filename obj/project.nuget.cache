@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyhA1aNkMg5mkhLZyvoZgOhv4LaHzgCu3bjZoF3evCyex2iOzo0IeVFdr3vqzSObWm1rqlnZP2seVssKXOrVXg==",
+  "dgSpecHash": "Piby7ccR8MNn8f9sWMPs3CWdON0X9dcPEZwzcixjlfLoGKsQ8MglTSIOHOp64p4ZbZ/NnSWL18GSUS6L6WCYIg==",
   "success": true,
-  "projectFilePath": "D:\\git\\tasks\\retailstore\\retailstore.csproj",
+  "projectFilePath": "d:\\git\\tasks\\retailstore\\retailstore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
