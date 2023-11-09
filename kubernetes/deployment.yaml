@@ -18,4 +18,3 @@ spec:
         image: yourusername/yourimage:tag
         ports:
         - containerPort: 80
-
