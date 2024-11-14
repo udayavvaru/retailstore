@@ -80,6 +80,8 @@ Presentation:
 
 Audience: Tailor to non-technical stakeholders, highlighting key findings and actionable recommendations.
 Structure: Summarize the architecture, technology stack, challenges, and proposed solutions to enhance understanding and drive decision-making.
+
+
 Timeline
 Week 1: Gather documentation, schedule interviews, and complete Azure Infrastructure and CI/CD Pipeline analysis.
 Week 2: Analyze Java/Spring Boot, Service Architecture, Product Management, and Database components.
